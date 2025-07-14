@@ -61,6 +61,7 @@ filtering-pipeline-analysis.md
 # Agent coordination directories
 coordination/
 memory/
+.swarm/
 tracking/
 plans/
 
