@@ -2,6 +2,8 @@
 
 A React TypeScript application for AI agent conversations with MCP (Model Context Protocol) integration.
 
+![Application Screenshot](docs/screencap.png)
+
 ## Features
 
 - **Multi-Agent Conversations**: Chat with different AI agents and maintain separate conversation histories
